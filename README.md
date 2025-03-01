@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="center">Junhyun Kang</h1>
 
 <!--
 **JunhyunKang/JunhyunKang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,55 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+```json
+{
+  "name": "Junhyun Kang",
+  "education": "Computer Science and Engineering at Soogsil Univ",
+  "status": "Undergraduate Student",
+  "experiences": [
+    {
+      "name": "KCB IT Intern",
+      "organization": "KCB",
+      "period": "Jan 2025 - Feb 2025"
+    },
+    {
+      "name": "Study Member",
+      "organization": "Real MySQL Study Group",
+      "period": "Oct 2024 - Present"
+    },
+    {
+      "name": "Naver Boost Camp(Web - Basic, Challenge, Membership) ",
+      "organization": "Naver Boost Camp",
+      "period": "Jun 2024 - Dec 2024"
+    }
+  ],
+  "tech_stack": {
+    "languages": [
+      "C",
+      "Java",
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "Shell/Bash"
+    ],
+    "frameworks": [
+      "NestJS",
+      "Spring",
+      "Express.js",
+      "Flask"
+    ],
+    "databases": [
+      "MySQL",
+      "SQLite",
+      "Redis"
+    ],
+    "infrastructure": [
+      "Git",
+      "Naver Cloud Platform",
+      "AWS EC2",
+      "GitHub Actions",
+      "Docker"
+    ]
+  }
+}
+```
