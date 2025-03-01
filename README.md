@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ```json
 {
   "name": "Junhyun Kang",
-  "education": "Computer Science and Engineering at Soognsil Univ",
+  "education": "Computer Science and Engineering at Soongsil Univ",
   "status": "Undergraduate Student",
   "experiences": [
     {
