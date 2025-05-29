@@ -28,7 +28,7 @@ Here are some ideas to get you started:
     {
       "name": "Study Member",
       "organization": "Real MySQL Study Group",
-      "period": "Oct 2024 - Present"
+      "period": "Oct 2024 - Mar 2025"
     },
     {
       "name": "Naver Boost Camp(Web - Basic, Challenge, Membership) ",
@@ -53,15 +53,17 @@ Here are some ideas to get you started:
     ],
     "databases": [
       "MySQL",
+      "PostgreSQL",
       "SQLite",
       "Redis"
     ],
     "infrastructure": [
       "Git",
       "Naver Cloud Platform",
-      "AWS EC2",
+      "AWS",
       "GitHub Actions",
-      "Docker"
+      "Docker",
+      "Nginx"
     ]
   }
 }
