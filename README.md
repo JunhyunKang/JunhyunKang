@@ -17,9 +17,14 @@ Here are some ideas to get you started:
 ```json
 {
   "name": "Junhyun Kang",
-  "education": "Computer Science and Engineering at Soongsil Univ",
+  "education": "Computer Science and Engineering at 00 Univ",
   "status": "Undergraduate Student",
   "experiences": [
+   {
+      "name": "Shinhan Bank ICT Intern",
+      "organization": "Shinhan Bank",
+      "period": "Jul 2025 - Aug 2025"
+    },
     {
       "name": "KCB IT Intern",
       "organization": "KCB",
